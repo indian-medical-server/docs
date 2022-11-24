@@ -1,3 +1,9 @@
+---
+bookHidden: true
+---
+
+<!--
+hugo compat comment -->
 <!-- markdownlint-disable MD034 -->
 # IMS Wiki
 
@@ -14,10 +20,12 @@ the relevant channels.
 
 ## Contributing
 
-Contributing to this guide is a straightforward process. Simply fork this repo, add your changes and submit a pull
-request.
+Contributing to this guide is a straightforward process. Simply fork [this repo][docs], add your changes and submit a
+pull request.
 
 To find sections that need contributions, search for `TODO: fixme` in this repository.
+
+[docs]: https://github.com/indian-medical-server/docs
 
 ### Guidelines
 
